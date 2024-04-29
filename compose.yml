@@ -1,0 +1,5 @@
+services:
+  certbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
